@@ -1,0 +1,17 @@
+{
+  "name": "react-mui",
+  "version": "3.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@emotion/react": "11.10.6",
+    "@emotion/styled": "11.10.6",
+    "@material-ui/core": "latest",
+    "@mui/icons-material": "5.11.11",
+    "@mui/material": "5.11.15",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
